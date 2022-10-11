@@ -2,7 +2,7 @@
 
 
 OAB iPay is an e-payment gateway facility by Oman Arab Bank. The payment gateway is developed to improve the digital payments in Oman.
-Meetanshi has developed the  ***[Magento 2 OAB iPay](https://meetanshi.com/magento-2-oab-ipay.html)***extension that integrates the Magento 2 store with OAB iPay payment gateway for secure online payments. Using the module, the Magento 2 merchants can leverage the benefits of the OAB iPay payment gateway.
+Meetanshi has developed the  ***[Magento 2 OAB iPay](https://meetanshi.com/magento-2-oab-ipay.html)*** extension that integrates the Magento 2 store with OAB iPay payment gateway for secure online payments. Using the module, the Magento 2 merchants can leverage the benefits of the OAB iPay payment gateway.
 
 The Magento 2 OAB iPay extension used the hosted payment process where the customers need not enter their card details in the Magento 2 store. On choosing this payment method, they are redirected to the hosted page of OAB iPay where the card details are entered and the payment is processed to complete the order securely.
 
@@ -28,7 +28,7 @@ Install this module and improve the customer experience of the Magento 2 store t
 
 • Better payment process contributing to improved customer experience.
 
-For more information, visit [https://meetanshi.com/magento-2-oab-ipay.html](https://meetanshi.com/magento-2-oab-ipay.html)
+For more information, visit ***[https://meetanshi.com/magento-2-oab-ipay.html](https://meetanshi.com/magento-2-oab-ipay.html)***
 
 
 
